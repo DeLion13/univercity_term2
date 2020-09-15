@@ -1,0 +1,8 @@
+<langs>
+    <lang id="2" type="f" name="f" author="f"/>
+    <lang id="3" type="Procedural" name="Crystal" author="Ary Borenszweig"/>
+    <lang id="4" type="Object-orienred" name="Java" author="James Hosling"/>
+    <lang id="5" type="Dynamic" name="JS" author="Brenden Aik"/>
+    <lang id="6" type="а" name="а" author="а"/>
+    <lang id="7" type="Multi-paradigmas" name="SQL" author="Raymond Bois"/>
+</langs>

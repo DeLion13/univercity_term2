@@ -1,0 +1,5 @@
+<langs>
+    <lang id="1" name="C" author="Dennis" type="Struct"/>
+    <lang id="2" name="Ruby" author="¯\_(ツ)_/¯" type="Dynaic"/>
+    <lang id="3" name="Crystal" author="Unknown" type="Procedural"/>
+</langs>

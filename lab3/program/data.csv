@@ -1,0 +1,6 @@
+ID,NAME,TYPE,AUTHOR
+55,C,Structured,Dennis Ritchie
+90,C++,Object-oriented,Bjarne Stroustrup
+33,Python,Object-oriented,Guido van Rossum
+47,Ruby,"Dynamic,""top lang"", object oriented",Yukihiro Matsumoto
+5,Perl,Multi-paradigm,Larry Wall
